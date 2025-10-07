@@ -89,8 +89,9 @@ Step 7:
 Output :
 <img width="1876" height="446" alt="image" src="https://github.com/user-attachments/assets/38759330-86a5-4551-91f2-321e7002bddc" />
 Step 8:
-# Create the PR and add reviewer 
+# Create the PR and add a reviewer 
 Output :
+<img width="1788" height="780" alt="image" src="https://github.com/user-attachments/assets/6aaedfbb-a666-40b2-9e01-ab132ede308b" />
 
 
 
